@@ -5,3 +5,5 @@ Lets add it to the repo and commit!
 This is my second change to the file. Lets add and commit it!
 
 A third change to this file and a commit 
+
+Fourth update so the Bar branch is no longer having latest master branch!
