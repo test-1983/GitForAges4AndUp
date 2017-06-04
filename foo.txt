@@ -1,3 +1,5 @@
 This is my foo text file. 
 
 Lets add it to the repo and commit!
+
+This is my second change to the file. Lets add and commit it!
